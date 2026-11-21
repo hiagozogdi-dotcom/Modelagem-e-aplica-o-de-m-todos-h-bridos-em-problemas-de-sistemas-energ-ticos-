@@ -1,2 +1,2 @@
-# Modelagem-e-aplica-o-de-m-todos-h-bridos-em-problemas-de-sistemas-energ-ticos-
+# Modelagem e aplicação de métodos híbridos em problemas de sistemas energéticos-
 MODELAGEM TERMOQUÍMICA DE TURBINAS A GÁS ALIMENTADAS POR GÁS DE SÍNTESE: ABORDAGEM HÍBRIDA PARA OTIMIZAÇÃO ENERGÉTICA E AMBIENTAL POR PROBLEMAS INVERSOS E APRENDIZADO DE MÁQUINA
