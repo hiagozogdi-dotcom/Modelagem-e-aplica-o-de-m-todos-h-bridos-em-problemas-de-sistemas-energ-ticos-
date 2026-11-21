@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Saídas geradas (regeneradas pelos códigos); só os substitutos são versionados
+results/*
+!results/README.md
+!results/Surrogate/
+
+# Mathematica
+*.mx
+mathematica/*.png
+mathematica/*.pdf
+mathematica/fig/
+mathematica/tab/
+mathematica/linework.csv
+
+# Arquivos externos (ver README)
+mathematica/THERM.DAT
+mathematica/drm19.dat
+mathematica/MapasGasTurb.xlsx
+mathematica/*.ris
+mathematica/*.jpg
+
+# Bancos auxiliares por resposta exportados pelo Mathematica
+data/dataset_eta_t*.csv
+data/dataset_Sgen*.csv
+data/dataset_EINOx*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
